@@ -1,7 +1,6 @@
 {
     "navigationFallback": {
-        "rewrite": "/index.html",
-        "exclude": ["/static/*"]
+        "rewrite": "/index.html"
     },
     "platform": {
         "apiRuntime": "node:18"
