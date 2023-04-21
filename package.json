@@ -3,6 +3,9 @@
   "homepage": "https://YourUsername.github.io/your-app/",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "@iconify/react": "^4.1.0",
     "@reduxjs/toolkit": "^1.9.3",
